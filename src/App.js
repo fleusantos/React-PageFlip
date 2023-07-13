@@ -4,7 +4,7 @@ import MyBook from './Book'
 function App() {
   return (
       <div className="App">
-        <MyBook />
+        <MyBook pageWidth={300} pageHeight={500} />
       </div>
   );
 }
