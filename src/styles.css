@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flipbook {
+  border: 1px solid pink;
+}
+
+.page {
+  background-color: #fdfaf7;
+}
+
+.page .container {
+  text-align: justify;
+}
